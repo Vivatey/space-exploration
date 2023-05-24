@@ -2,4 +2,10 @@ body {
   background-image: url("images/outerspace.jpg");
   background-size: cover;
   color: white;
+  text-align: center;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-weight: 700;
 }
